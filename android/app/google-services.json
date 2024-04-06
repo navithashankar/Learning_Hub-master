@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736616145918",
+    "project_id": "learn-course-6061d",
+    "storage_bucket": "learn-course-6061d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736616145918:android:1a7d6300f5fb9735ba96af",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0NgxJpQsUloTqFASBK1nj54zSAAtGR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
